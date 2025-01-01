@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 19 (Oracle Corporation)
+Main-Class: info.kgeorgiy.ja.elagina.implementor.Implementor
+Class-Path: ..\..\java-advanced-2024\artifacts\info.kgeorgiy.java.advanced.implementor.jar
